@@ -1,0 +1,5 @@
+com\example\messagequeue\Consumer.class
+com\example\messagequeue\Application$Consumer.class
+com\example\messagequeue\Producer.class
+com\example\messagequeue\Application.class
+com\example\messagequeue\MessageQueue.class
